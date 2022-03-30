@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.js": "/React-Memory-Game/static/js/main.c9d2ea7c.js",
+    "main.js": "/React-Memory-Game/static/js/main.e4418d36.js",
     "static/js/787.74af8add.chunk.js": "/React-Memory-Game/static/js/787.74af8add.chunk.js",
+    "static/media/goodClick.wav": "/React-Memory-Game/static/media/goodClick.fb70fc9efc571a3b3b38.wav",
+    "static/media/gameOver.wav": "/React-Memory-Game/static/media/gameOver.183e2b8a775ec673ac2a.wav",
     "static/media/Crocodile.svg": "/React-Memory-Game/static/media/Crocodile.257a7fec0a73d93b0ebc.svg",
     "static/media/Duck.svg": "/React-Memory-Game/static/media/Duck.034a23dca0f4d4a7ad87.svg",
     "static/media/SeaTurtle.svg": "/React-Memory-Game/static/media/SeaTurtle.674dfe1519e079c075c9.svg",
@@ -39,10 +41,10 @@
     "static/media/Pig.svg": "/React-Memory-Game/static/media/Pig.8502c80ddff07481158a.svg",
     "static/media/bgTexture.png": "/React-Memory-Game/static/media/bgTexture.4ec7200660870187bcfb.png",
     "index.html": "/React-Memory-Game/index.html",
-    "main.c9d2ea7c.js.map": "/React-Memory-Game/static/js/main.c9d2ea7c.js.map",
+    "main.e4418d36.js.map": "/React-Memory-Game/static/js/main.e4418d36.js.map",
     "787.74af8add.chunk.js.map": "/React-Memory-Game/static/js/787.74af8add.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.c9d2ea7c.js"
+    "static/js/main.e4418d36.js"
   ]
 }
